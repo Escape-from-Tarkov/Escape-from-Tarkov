@@ -73,25 +73,6 @@
 
 ---
 
-### 🔍 SEO Keywords
+## 🔎 SEO Keywords
 
-- escape from tarkov
-- escape from tarkov game
-- escape from tarkov for pc
-- get escape from tarkov
-- install escape from tarkov
-- acquire escape from tarkov
-- tarkov
-- tarkov for pc
-- tarkov game
-- get tarkov free
-- tarkov install
-- escape from tarkov launcher
-- setup escape from tarkov
-- how to get escape from tarkov
-- download tarkov pc
-- obtain escape from tarkov free
-- escape from tarkov client
-- escape from tarkov full edition
-- tarkov full version
-- play escape from tarkov
+escape from tarkov, tarkov, escape from tarkov game, tarkov game, escape from tarkov for pc, tarkov install, escape from tarkov install, eft game, escape from tarkov launcher, tarkov setup guide, how to install tarkov, tarkov client, download escape from tarkov, escape from tarkov full version, tarkov pc version, hardcore fps game, realistic shooter tarkov, escape from tarkov download pc, tarkov online play, eft tactical shooter, install eft, tarkov official launcher, escape from tarkov ready to play, tarkov installation help, tactical survival fps
